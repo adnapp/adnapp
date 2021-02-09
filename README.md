@@ -2,6 +2,26 @@
 
 Software Engineer with a background in Financial Consulting and Mechanical Engineering. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
 
+Feel free to reach out to me on LinkedIn!
+
+
+A few of my recent projects are linked below:
+
+1. Krunch
+
+<a href="https://github.com/adnapp/krunch-frontend">Code</a>
+
+<a href="https://www.youtube.com/watch?v=WJhYYFeTEc4&feature=youtu.be">Demo</a>
+
+2. Grubdex
+
+<a href="https://www.youtube.com/watch?v=70VudOWKA5w&feature=youtu.be">Demo</a>
+
+
+3. Raging Bull
+
+<a href="https://www.youtube.com/watch?v=Eqg9UWCaefo&feature=youtu.be">Demo</a>
+
 <!--
 **adnapp/adnapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
