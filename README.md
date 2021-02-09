@@ -9,9 +9,9 @@ A few of my recent projects are linked below:
 
 1. Krunch
 
-<a href="https://github.com/adnapp/krunch-frontend">Code</a>
+  <a href="https://github.com/adnapp/krunch-frontend">Code</a>
 
-<a href="https://www.youtube.com/watch?v=WJhYYFeTEc4&feature=youtu.be">Demo</a>
+  <a href="https://www.youtube.com/watch?v=WJhYYFeTEc4&feature=youtu.be">Demo</a>
 
 2. Grubdex
 
