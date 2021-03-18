@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Software Engineer with a background in Financial Consulting and Mechanical Engineering. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
+I am a software Engineer with a background in Financial Consulting and Mechanical Engineering. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
 
-Feel free to reach out to me on LinkedIn!
+Feel free to reach out to me on LinkedIn! 
 
 
 A few of my recent projects are linked below:
@@ -19,11 +19,11 @@ A few of my recent projects are linked below:
 
   <a href="https://youtu.be/DlVj1qxiG9w">Demo</a>
 
-3. Raging Bull
+3. Raging Bull - stock portfolio manager
 
 <a href="https://www.youtube.com/watch?v=Eqg9UWCaefo&feature=youtu.be">Demo</a>
 
-Grubdex
+4. Grubdex - restaurant mapping application
 
 <a href="https://www.youtube.com/watch?v=70VudOWKA5w&feature=youtu.be">Demo</a>
 
