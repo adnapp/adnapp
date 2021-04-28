@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software Engineer with a background in Financial Consulting/reporting and Mechanical Engineering. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
+I am a Software Engineer with a background in Financial/Technology Consulting. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
 
 Feel free to reach out to me on LinkedIn! 
 
