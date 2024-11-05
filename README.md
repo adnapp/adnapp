@@ -1,31 +1,8 @@
 ### Hi there 👋
 
-I am a Software Engineer with a background in Financial/Technology Consulting. Passionate about utilizing my strong client relation and project management skills to design and work with emerging technologies, build solutions from the ground up and implement and deploy innovative products that help build the future of finance and technology. 
 
-Feel free to reach out to me on LinkedIn! 
+I am a Product Manager / Solutions Engineer / Operator in the crypto space. I enjoy getting in the nitty gritty of where technology intersects business. Reach out on LinkedIn to chat crypto, finance, or sailing!
 
-
-A few of my recent projects are linked below:
-
-1. Krunch - personal fitness app
-
-  <a href="https://github.com/adnapp/krunch-frontend">Code</a>
-
-  <a href="https://www.youtube.com/watch?v=WJhYYFeTEc4&feature=youtu.be">Demo</a>
-
-2. Findex - personal finance application
-
-  <a href="https://github.com/adnapp/findex-frontend">Code</a>
-
-  <a href="https://youtu.be/DlVj1qxiG9w">Demo</a>
-
-3. Raging Bull - stock portfolio manager
-
-<a href="https://www.youtube.com/watch?v=Eqg9UWCaefo&feature=youtu.be">Demo</a>
-
-4. Grubdex - restaurant mapping application
-
-<a href="https://www.youtube.com/watch?v=70VudOWKA5w&feature=youtu.be">Demo</a>
 
 
 <!--
